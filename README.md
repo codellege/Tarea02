@@ -1,4 +1,4 @@
-![picture alt](https://github.com/codellege/Tarea02/blob/master/Screenshot_2019-02-22%20Title.png?raw=true)
+![picture alt](https://raw.githubusercontent.com/codellege/Tarea02/master/preview.png)
 
 # Tarea02
 if statements
